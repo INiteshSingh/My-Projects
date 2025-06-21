@@ -5,10 +5,11 @@ body{
     font-family:"Poppins",sans-serif;
 }
 .container{
-    background-color: #B13BFF;
+    background-color: #fefcff3f;
     padding:15px;
     border-radius:15px;
     width:fit-content;
+    backdrop-filter: blur(10px);
 }
 .enter-data{
     margin:20px;
